@@ -5,7 +5,6 @@ import mysql.connector
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
-from tkinter import messagebox as tkMessageBox
 
 # Create GUI
 root =Tk()
